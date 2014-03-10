@@ -12,7 +12,7 @@ using Nancy.Razor.Helpers.Extensions;
 using Nancy.Razor.Helpers.Tag;
 using Nancy.ViewEngines.Razor;
 
-namespace Swof.Web.Extensions
+namespace Nancy.Razor.Helpers
 {
     public static class InputElementsExtensions
     {

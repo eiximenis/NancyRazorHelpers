@@ -2,7 +2,6 @@
 using System.ComponentModel.DataAnnotations;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Nancy.ViewEngines.Razor;
-using Swof.Web.Extensions;
 
 namespace Nancy.Razor.Helpers.Tests.Tag
 {
